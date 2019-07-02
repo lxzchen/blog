@@ -14,10 +14,10 @@ description: “努力做一个有态度的博客，并维护世界和平、宇�
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: images/logo.png
+avatar: /images/logo.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: images/favicon.png
+favicon: /images/favicon.png
 
 
 # 菜单中的按钮
@@ -61,7 +61,7 @@ disqus: loffer #shortname
 gitalk: blog-comment
 comment_gitalk_clientId: 10b36e4fc784967ddbe4
 comment_gitalk_clientSecret: daaaf6ab3193368ed0218b5f4cd57223a0afef85
-comment_gitalk_repo: lxzchen/blog-comment.github.io
+comment_gitalk_repo: lxzchen.github.io
 github_username: lxzchen
 
 # 输入Google Analytics web tracking code
