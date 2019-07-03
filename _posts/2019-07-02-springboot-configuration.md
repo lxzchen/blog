@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 记一次SpringBoot自定义多配置文件问题查找
+title: 记一次SpringBoot自定义配置文件问题查找
 date: 2019-07-02
 Author: 态度大师
 categories: 
-tags: [SpringBoot, 自定义多配置]
+tags: [SpringBoot, 自定义配置]
 comments: true
 ---
 
