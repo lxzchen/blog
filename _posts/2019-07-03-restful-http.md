@@ -43,11 +43,11 @@ URL用来指定需要操作的资源，HTTP方法用来指定对资源进行何�
 
 #### 在表示集合URL上，使用POST来创建新的资源
 对于一个主从式交互过程，创建一个资源该如何展示？
-![在collection-URL上，使用POST方法来创建资源](http://upload-images.jianshu.io/upload_images/2728140-390a78b8c2f10e70.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![在collection-URL上，使用POST方法来创建资源](/images/restful/2728140-390a78b8c2f10e70.jpg)
 1. 客户端通过collection-URL /employees发送POST方法请求，请求消息体包含新资源“Albert Stark”的相关属性。
 2. 服务端为新的雇员创建ID，创建雇员相关信息并向客户端发送回响应。响应体包含访问新创建资源对应的URL路径，/employees/21。
 #### 在表示特定袁术URL上，使用PUT来表示更新资源
-![使用PUT方法，更新已存在的资源](http://upload-images.jianshu.io/upload_images/2728140-afc5390eff0cb3b2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![使用PUT方法，更新已存在的资源](/images/restful/2728140-afc5390eff0cb3b2.jpg)
 客户端使用PUT方法，通过URL路径 /employees/21 发送请求。HTTP消息体包含更新的属性信息（ID编号21雇员的新名字）。
 服务端更新 ID编号21雇员的新名字，并通过返回HTTP状态码200，确认此次更新成功。
 #### 坚持使用复数名词
