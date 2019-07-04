@@ -4,7 +4,7 @@ title: RESTful API设计最佳实践（转译）
 date: 2019-07-03
 Author: 态度大师
 categories: 
-tags: [restful, http, 设计]
+tags: [restful api, 设计模式]
 comments: true
 ---
 
