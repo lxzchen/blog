@@ -9,42 +9,47 @@
 
 <url>
   <loc>https://lxzchen.github.io/</loc>
-  <lastmod>2019-07-03T01:43:34+00:00</lastmod>
+  <lastmod>2019-07-04T07:38:56+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://lxzchen.github.io/about/</loc>
-  <lastmod>2019-07-03T01:43:34+00:00</lastmod>
+  <lastmod>2019-07-04T07:38:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://lxzchen.github.io/archive/</loc>
-  <lastmod>2019-07-03T01:43:34+00:00</lastmod>
+  <lastmod>2019-07-04T07:38:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://lxzchen.github.io/tags/</loc>
-  <lastmod>2019-07-03T01:43:34+00:00</lastmod>
+  <lastmod>2019-07-04T07:38:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lxzchen.github.io/spring-cloud-boot/</loc>
+  <lastmod>2019-07-04T07:38:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://lxzchen.github.io/restful-http/</loc>
-  <lastmod>2019-07-03T01:43:34+00:00</lastmod>
+  <lastmod>2019-07-04T07:38:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://lxzchen.github.io/springboot-configuration/</loc>
-  <lastmod>2019-07-03T01:43:34+00:00</lastmod>
+  <lastmod>2019-07-04T07:38:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://lxzchen.github.io/document/</loc>
-  <lastmod>2019-07-03T01:43:34+00:00</lastmod>
+  <lastmod>2019-07-04T07:38:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://lxzchen.github.io/chinese-markdown-cheatsheet/</loc>
-  <lastmod>2019-07-03T01:43:34+00:00</lastmod>
+  <lastmod>2019-07-04T07:38:56+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
